@@ -1,0 +1,841 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+div.header{
+    background-color: rgb(87, 121, 214);
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 0px;
+}
+.facebook{
+    position: absolute;
+    top: 14px;
+    left: 60px;
+    cursor: pointer;
+}
+.tweet{
+    position: absolute;
+    top: 14px;
+    left: 100px;
+    cursor: pointer;
+}
+.instaa{
+    position: absolute;
+    top: 14px;
+    left: 140px;
+    cursor: pointer;
+}
+.youtube{
+    position: absolute;
+    top: 14px;
+    left: 180px;
+    cursor: pointer;
+}
+.whatsup{
+    position: absolute;
+    top: 14px;
+    left: 220px;
+    cursor: pointer;
+}
+p{ 
+    position: absolute;
+    top: 4px;
+    left: 400px;
+    color: rgb(255, 255, 255);
+}
+.first{
+    position: absolute;
+    top: 10px;
+}
+.uk{
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+    left: 1015px;
+    cursor: pointer;
+    color: rgb(88, 88, 88);
+    border: 1px solid black;
+    height: 30px;
+}
+.donate{
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+    left: 1085px;
+    cursor: pointer;
+    color: rgb(88, 88, 88);
+    border: 1px solid black;
+    height: 30px;
+}
+.smit{
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+    left: 1168px;
+    cursor: pointer;
+    color: rgb(88, 88, 88);
+    border: 1px solid black;
+    height: 30px;
+}
+
+
+img.picture{
+    width: 1350px;
+    position: absolute;
+    top: 132px;
+}
+
+
+
+p.introduction{
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: justify;
+    color: rgb(87, 121, 214);
+    top: 770px;
+    left: 550px;
+    right: 160px;
+    
+}
+p.heading{
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: justify;
+    color: rgb(30, 121, 30);
+    top: 770px;
+    left: 658px;
+    right: 160px;
+}
+
+p.saylani{
+    text-align: justify;
+    color: black;
+    top: 900px;
+    left: 150px;
+    right: 160px;
+}
+img.mid{
+    position: absolute;
+    top: 850px;
+    left: 667px;
+}
+table.line1{
+
+    width: 45px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 870px;
+    left: 720px;
+}
+table.line2{
+    width: 45px;
+    height: 1px;
+    background-color: rgb(30, 121, 30);
+    border: 1px solid rgb(30, 121, 30);
+    position: absolute;
+    top: 870px;
+    left: 600px;
+}
+div.bluebox{
+    width: 1350px;
+    height: 280px;
+    background-color: rgb(32, 35, 212);
+    position: absolute;
+    top: 1300px;
+    left: 2px;
+}
+img.food{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 35px;
+    left: 200px;
+}
+img.family{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 35px;
+    left: 500px;
+}
+img.medical{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 35px;
+    left: 800px;
+}
+img.education{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    top: 35px;
+    left: 1100px;
+}
+p.foodie{
+font-family: Georgia, 'Times New Roman', Times, serif;
+position: absolute;
+top: 70px;
+    left: 150px;
+    font-size: 40px;
+}
+p.dastarkhan{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+position: absolute;
+top: 170px;
+    left: 100px;
+    font-size: 15px;
+}
+p.fam{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 70px;
+        left: 470px;
+        font-size: 40px;
+}
+p.adoption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+position: absolute;
+top: 170px;
+    left: 400px;
+    font-size: 15px;
+}
+p.medi{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 70px;
+        left: 760px;
+        font-size: 40px;
+}
+p.medical{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 170px;
+        left: 750px;
+        font-size: 15px;
+}
+p.edu{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 70px;
+        left: 1050px;
+        font-size: 40px;
+}
+p.education{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 170px;
+        left: 1040px;
+        font-size: 15px;
+}
+div.doing{
+    width: 1350px;
+    height: 600px;
+    background-color: rgb(238, 228, 228);
+    position: absolute;
+    top: 1580px;
+    left: 2px;
+    
+}
+p.what{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: justify;
+    color: rgb(87, 121, 214);
+    position: absolute;
+    top: 35px;
+    left: 500px;
+    right: 160px;
+}
+p.are{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: justify;
+    color: rgb(30, 121, 30);
+    position: absolute;
+    top: 35px;
+    left: 650px;
+    right: 160px;
+}
+table.line3{
+
+    width: 45px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+table.line4{
+    width: 45px;
+    height: 1px;
+    background-color: rgb(30, 121, 30);
+    border: 1px solid rgb(30, 121, 30);
+    position: absolute;
+    top: 100px;
+    left: 605px;
+}
+img.we{
+    position: absolute;
+    top: 80px;
+    left: 660px;
+}
+div.box1{
+width: 350px;
+height: 200px;
+background-color: rgb(255, 255, 255);
+position: absolute;
+top: 150px;
+left: 100px;
+}
+div.box2{
+    width: 350px;
+height: 200px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+div.box3{
+    width: 350px;
+height: 200px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+div.box4{
+    width: 350px;
+height: 200px;
+background-color: rgb(255, 255, 255);
+position: absolute;
+top: 375px;
+left: 100px;
+}
+div.box5{
+    width: 350px;
+    height: 200px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 375px;
+        left: 500px;
+}
+div.box6{
+    width: 350px;
+height: 200px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 375px;
+    left: 900px;
+}
+img.onlinesadqah{
+position: absolute;
+top: 20px;
+left: 130px;
+cursor: pointer;
+}
+img.welfaretrust{
+    position: absolute;
+    top: 20px;
+    left: 130px;
+}
+img.medicalbox{
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    cursor: pointer;
+}
+img.lunchbox{
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    cursor: pointer;
+}
+img.roplant{
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    cursor: pointer;
+}
+img.student{
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    cursor: pointer;
+}
+p.head1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+position: absolute;
+top: 110px;
+left: 80px;
+color: rgb(87, 121, 214);
+font-size: 20px;
+cursor: pointer;
+}
+p.head2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+position: absolute;
+top: 110px;
+left: 120px;
+color: rgb(87, 121, 214);
+font-size: 20px;
+cursor: pointer;
+}
+p.head3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+position: absolute;
+top: 110px;
+left: 120px;
+color: rgb(87, 121, 214);
+font-size: 20px;
+cursor: pointer;
+}
+p.head4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+position: absolute;
+top: 110px;
+left: 80px;
+color: rgb(87, 121, 214);
+font-size: 20px;
+cursor: pointer;
+}
+p.head5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+position: absolute;
+top: 110px;
+left: 120px;
+color: rgb(87, 121, 214);
+font-size: 20px;
+cursor: pointer;
+}
+p.head6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+position: absolute;
+top: 110px;
+left: 120px;
+color: rgb(87, 121, 214);
+font-size: 20px;
+cursor: pointer;
+}
+p.mission{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(87, 121, 214);
+    font-size: 23px;
+    font-weight: bolder;
+    position: absolute;
+    top: 2220px;
+    left: 100px;
+}
+p.events{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(87, 121, 214);
+    font-size: 23px;
+    font-weight: bolder;
+    position: absolute;
+    top: 2220px;
+    left: 900px;
+}
+table.line5{
+    width: 60px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 2255px;
+    left: 100px;
+}
+table.line6{
+    width: 60px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 2255px;
+    left: 900px;
+}
+
+div.heart{
+    width: 380px;
+    height: 70px;
+    position: absolute;
+    top: 2300px;
+    left:100px ;
+    background-color: rgb(238, 228, 228);
+}
+div.house{
+    width: 380px;
+    height: 70px;
+    position: absolute;
+    top: 2300px;
+    left:500px ;
+    background-color: rgb(238, 228, 228);
+}
+div.computer{
+    width: 380px;
+    height: 70px;
+    position: absolute;
+    top: 2400px;
+    left:100px ;
+    background-color: rgb(238, 228, 228);
+}
+div.thar{
+    width: 380px;
+    height: 70px;
+    position: absolute;
+    top: 2400px;
+    left:500px ;
+    background-color: rgb(238, 228, 228);
+}
+img.hepatitis{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+}
+img.housing{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+}
+img.it{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+}
+img.parkar{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+}
+p.para1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(87, 121, 214);
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    cursor: pointer;
+}
+p.para2{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(87, 121, 214);
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    cursor: pointer;
+}
+p.para3{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(87, 121, 214);
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    cursor: pointer;
+}
+p.para4{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(87, 121, 214);
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    cursor: pointer;
+}
+div.list{
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 2300px;
+    left:900px ;
+    background-color: rgb(255, 255, 255);
+}
+p.detail{
+    text-align: justify;
+text-align: left;
+    color: rgb(184, 183, 183);
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+p.image{
+color: rgb(87, 121, 214);
+font-weight: bolder;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 30px;
+position: absolute;
+top: 2550px;
+left: 550px;
+}
+p.photos{
+  color:  rgb(30, 121, 30);
+  font-weight: bolder;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 30px;
+position: absolute;
+top: 2550px;
+left: 670px;
+}
+table.line7{
+    width: 60px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 2650px;
+    left: 600px;
+}
+table.line8{
+    width: 60px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 2650px;
+    left: 715px;
+}
+img.imagegallery{
+    position: absolute;
+    top: 2620px;
+    left: 670px;
+}
+img.picture1{
+    width: 230px;
+position: absolute;
+top: 2700px;
+left: 100px;
+cursor: pointer;
+}
+img.picture2{
+    width: 230px;
+    position: absolute;
+    top: 2700px;
+    left: 335px;
+    cursor: pointer;
+}
+img.picture3{
+    width: 230px;
+    position: absolute;
+    top: 2700px;
+    left: 570px;
+    cursor: pointer;
+}
+img.picture4{
+    width: 230px;
+    position: absolute;
+    top: 2700px;
+    left: 805px;
+    cursor: pointer;
+}
+img.picture5{
+    width: 230px;
+    position: absolute;
+    top: 2700px;
+    left: 1040px;
+    cursor: pointer;
+}
+div.footer{
+    width: 1350px;
+    height: 380px;
+    background-color: rgb(37, 35, 35);
+    position: absolute;
+    top: 3000px;
+    left: 0px;
+
+}
+p.headoffice{
+    position: absolute;
+    top: 80px;
+    left: 140px;
+    color: rgb(189, 183, 183);
+    font-size: 15px;
+}
+div.ending{
+    background-color: rgb(87, 121, 214);
+    width: 1350px;
+    height: 50px;
+    position: absolute;
+    top: 380px;
+    left: 0px;
+}
+p.copyright{
+    position: absolute;
+    top: 390px;
+    left: 130px;
+    color: white;
+    font-size: 13px;
+}
+p.useful{
+    font-weight: bold;
+    position: absolute;
+    top: 80px;
+    left: 560px;
+    color: rgb(189, 183, 183);
+    font-size: 18px;
+}
+table.line9{
+    width: 60px;
+    height: 1px;
+    border: 1px solid rgb(30, 121, 30);
+    background-color: rgb(30, 121, 30);
+    position: absolute;
+    top: 120px;
+    left: 560px;
+}
+p.connect{
+    font-weight: bold;
+    position: absolute;
+    top: 80px;
+    left: 850px;
+    color: rgb(189, 183, 183);
+    font-size: 18px;
+}
+
+img.book{
+    position: absolute;
+    top: 120px;
+    left: 850px;
+    cursor: pointer;
+}
+img.twet{
+    position: absolute;
+    top: 120px;
+    left: 880px;
+    cursor: pointer;
+}
+img.insttaa{
+    position: absolute;
+    top: 120px;
+    left: 915px;
+    cursor: pointer;
+}
+img.yotube{
+    position: absolute;
+    top: 120px;
+    left: 950px;
+    cursor: pointer;
+}
+img.top{
+    width: 50px;
+    position: fixed;
+    top: 520px;
+    left: 1265px;
+    border-radius: 25px;
+}
+.IntroPara{
+    margin-top: 200px;
+}
+
+.textmove{
+    background-color: rgb(87, 121, 214);
+   margin-bottom: 500px;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+.text{
+    margin-top: 1px;
+    color: white;
+}
+
+
+.main2{
+    background-color: whitesmoke;
+    position:sticky;
+    top:70px;
+    width: 100%;
+   z-index: 1;
+}
+.logopic{
+    width: 220px;
+    margin-left: 50px;
+}
+
+ .dropbtn {
+    background-color:whitesmoke;
+    color:black;
+    padding: 06px;
+    font-size: 16px;
+    border: none;
+    margin-top: 25px;
+    padding-left: 10px;
+    
+  
+  }
+  
+  
+  .dropdown {
+      flex-wrap: wrap;
+    position: relative;
+    display: inline-block;
+
+  }
+  
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 220px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+   
+  }
+  
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 14px;
+    text-decoration: none;
+    display: block;
+   
+  }
+  
+ 
+  .dropdown-content a:hover {
+      background-color:#3a5dbd;
+       color: white;
+       list-style: none;
+       text-decoration: none;
+    }
+  
+ 
+  .dropdown:hover .dropdown-content{
+      display: block;
+}
+  
+  
+  .dropdown:hover .dropbtn {
+      background-color: #3a5dbd;
+      color: white;
+      border-radius: 50px;
+      
+    }
+    .active{
+        background-color: #3a5dbd;
+      border-radius: 50px;
+      color: white;
+    }
+
+
+
+
